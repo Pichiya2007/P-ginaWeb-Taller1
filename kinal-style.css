@@ -2,6 +2,8 @@ section{
     display: flex;
     width: 600px;
     height: 430px;
+    justify-content: center;
+    
 }
 
 section img{
