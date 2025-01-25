@@ -21,3 +21,23 @@ section img:hover{
     opacity: 1;
     filter: contrast(120%);
 }
+
+.container{
+    background-color: rgb(35, 55, 109);
+    max-width: 100%;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar .nav-link{
+    color: rgb(35, 55, 109) !important;
+}
+
+.dropdown-menu .dropdown-item{
+    color: rgb(35, 55, 109) !important;
+  }
+  
